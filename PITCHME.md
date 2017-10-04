@@ -1,4 +1,4 @@
-![](http://static.bbci.co.uk/schoolradio/images/ic/qe//width/960/schoolradio/history/since1948/space/space_exploration.jpg)
+![](https://disrupt-and-innovate.org/wp-content/uploads/2015/09/burning-platform.jpg)
 ---
 
 ## Exploratory testing?

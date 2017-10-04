@@ -1,0 +1,4 @@
+theme-override : assets/css/PITCHME.css
+mousewheel : true
+footnote : "© 2017 Milan Kuveljic"
+vertical-center : false

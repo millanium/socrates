@@ -73,10 +73,28 @@ Surface detection
 
 ---
 
+## Security testing
 
+* Fuzzing - generating randomized data
+* Sending unexpected invalid input
+* Malicious input
+* SQL Injection
 
+---
 
+## SQL Injection
 
+```http://petstore.com/api/v1/pet/123```
+
+```“SELECT * FROM pets WHERE petID='” + petId +”‘”;```
+
+---
+
+## SQL Injection
+
+```http://petstore.com/api/v1/pet/’%20or%20’1’=’1```
+
+```SELECT * FROM pets WHERE petID = ‘’ or ‘1’ = ‘1’```
 
 +++
 

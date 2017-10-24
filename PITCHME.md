@@ -87,7 +87,7 @@ Surface detection
 ```
 http://petstore.com/api/v1/pet/123
 queries:
-“SELECT * FROM pets WHERE petID='” + petId +”‘”;
+SELECT * FROM pets WHERE petID='” + petId +”‘”;
 ```
 
 ---

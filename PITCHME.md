@@ -85,7 +85,9 @@ Surface detection
 ## SQL Injection
 
 
-```petstore.com/api/v1/pet/123```
+```
+petstore.com/api/v1/pet/123
+```
 
 ```
 queries:

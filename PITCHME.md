@@ -84,9 +84,9 @@ Surface detection
 
 ## SQL Injection
 
-```
-http://petstore.com/api/v1/pet/123
-```
+
+```petstore.com/api/v1/pet/123```
+
 ```
 queries:
 SELECT * FROM pets WHERE petID='” + petId +”‘”;

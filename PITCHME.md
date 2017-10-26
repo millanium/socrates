@@ -12,7 +12,7 @@
 ## Understand what should be tested
 
 * Webservice: API - used to exchange data between applications
-* has an interface - WSDL
+* has an interface - WDSL
 * operates over HTTP
 * protocol - SOAP, REST
 
